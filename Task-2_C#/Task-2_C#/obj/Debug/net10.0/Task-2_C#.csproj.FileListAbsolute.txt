@@ -1,0 +1,15 @@
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\bin\Debug\net10.0\Task-2_C#.exe
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\bin\Debug\net10.0\Task-2_C#.deps.json
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\bin\Debug\net10.0\Task-2_C#.runtimeconfig.json
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\bin\Debug\net10.0\Task-2_C#.dll
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\bin\Debug\net10.0\Task-2_C#.pdb
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.AssemblyInfoInputs.cache
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.AssemblyInfo.cs
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.csproj.CoreCompileInputs.cache
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.sourcelink.json
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.dll
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\refint\Task-2_C#.dll
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.pdb
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\Task-2_C#.genruntimeconfig.cache
+E:\depi\DEPI-Tasks\Task-2_C#\Task-2_C#\obj\Debug\net10.0\ref\Task-2_C#.dll

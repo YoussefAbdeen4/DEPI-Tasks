@@ -1,0 +1,15 @@
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\bin\Debug\net10.0\Task-3_C#.exe
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\bin\Debug\net10.0\Task-3_C#.deps.json
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\bin\Debug\net10.0\Task-3_C#.runtimeconfig.json
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\bin\Debug\net10.0\Task-3_C#.dll
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\bin\Debug\net10.0\Task-3_C#.pdb
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.AssemblyInfoInputs.cache
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.AssemblyInfo.cs
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.csproj.CoreCompileInputs.cache
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.sourcelink.json
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.dll
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\refint\Task-3_C#.dll
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.pdb
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\Task-3_C#.genruntimeconfig.cache
+E:\depi\DEPI-Tasks\Task-3_C#\Task-3_C#\obj\Debug\net10.0\ref\Task-3_C#.dll

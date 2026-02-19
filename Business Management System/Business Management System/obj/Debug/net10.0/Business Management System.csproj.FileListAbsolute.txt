@@ -1,0 +1,15 @@
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\bin\Debug\net10.0\Business Management System.exe
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\bin\Debug\net10.0\Business Management System.deps.json
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\bin\Debug\net10.0\Business Management System.runtimeconfig.json
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\bin\Debug\net10.0\Business Management System.dll
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\bin\Debug\net10.0\Business Management System.pdb
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.AssemblyInfoInputs.cache
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.AssemblyInfo.cs
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.csproj.CoreCompileInputs.cache
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.sourcelink.json
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.dll
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\refint\Business Management System.dll
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.pdb
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\Business Management System.genruntimeconfig.cache
+E:\depi\DEPI-Tasks\Business Management System\Business Management System\obj\Debug\net10.0\ref\Business Management System.dll

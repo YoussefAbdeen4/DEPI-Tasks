@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\depi\\DEPI-Tasks\\Business Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|e:\\depi\\depi-tasks\\business management system\\business management system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00141213-7245-41A6-B58C-0DB6554B27F7}|Business Management System\\Business Management System.csproj|solutionrelative:business management system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Order.cs",
+              "RelativeDocumentMoniker": "Business Management System\\Order.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Order.cs",
+              "RelativeToolTip": "Business Management System\\Order.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:04:59.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Invoice.cs",
+              "RelativeDocumentMoniker": "Business Management System\\Invoice.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Invoice.cs",
+              "RelativeToolTip": "Business Management System\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:14:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Business Management System\\Program.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Program.cs",
+              "RelativeToolTip": "Business Management System\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:08:10.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "Business Management System\\CreditCardPayment.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\CreditCardPayment.cs",
+              "RelativeToolTip": "Business Management System\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T13:00:18.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Product.cs",
+              "RelativeDocumentMoniker": "Business Management System\\Product.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Product.cs",
+              "RelativeToolTip": "Business Management System\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:12:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\CashPayment.cs",
+              "RelativeDocumentMoniker": "Business Management System\\CashPayment.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\CashPayment.cs",
+              "RelativeToolTip": "Business Management System\\CashPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:58:25.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Customer.cs",
+              "RelativeDocumentMoniker": "Business Management System\\Customer.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Customer.cs",
+              "RelativeToolTip": "Business Management System\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:35:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Employee.cs",
+              "RelativeDocumentMoniker": "Business Management System\\Employee.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Employee.cs",
+              "RelativeToolTip": "Business Management System\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:35:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\User.cs",
+              "RelativeDocumentMoniker": "Business Management System\\User.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\User.cs",
+              "RelativeToolTip": "Business Management System\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:33:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Payment.cs",
+              "RelativeDocumentMoniker": "Business Management System\\Payment.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\Business Management System\\Business Management System\\Payment.cs",
+              "RelativeToolTip": "Business Management System\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:55:54.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

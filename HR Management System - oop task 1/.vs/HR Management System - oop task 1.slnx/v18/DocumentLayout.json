@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\depi\\DEPI-Tasks\\HR Management System - oop task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE9EC18-D274-C616-3ECC-DC633999019A}|HR Management System - oop task 1\\HR Management System - oop task 1.csproj|e:\\depi\\depi-tasks\\hr management system - oop task 1\\hr management system - oop task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE9EC18-D274-C616-3ECC-DC633999019A}|HR Management System - oop task 1\\HR Management System - oop task 1.csproj|solutionrelative:hr management system - oop task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE9EC18-D274-C616-3ECC-DC633999019A}|HR Management System - oop task 1\\HR Management System - oop task 1.csproj|e:\\depi\\depi-tasks\\hr management system - oop task 1\\hr management system - oop task 1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE9EC18-D274-C616-3ECC-DC633999019A}|HR Management System - oop task 1\\HR Management System - oop task 1.csproj|solutionrelative:hr management system - oop task 1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE9EC18-D274-C616-3ECC-DC633999019A}|HR Management System - oop task 1\\HR Management System - oop task 1.csproj|e:\\depi\\depi-tasks\\hr management system - oop task 1\\hr management system - oop task 1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE9EC18-D274-C616-3ECC-DC633999019A}|HR Management System - oop task 1\\HR Management System - oop task 1.csproj|solutionrelative:hr management system - oop task 1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\HR Management System - oop task 1\\HR Management System - oop task 1\\Manager.cs",
+              "RelativeDocumentMoniker": "HR Management System - oop task 1\\Manager.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\HR Management System - oop task 1\\HR Management System - oop task 1\\Manager.cs",
+              "RelativeToolTip": "HR Management System - oop task 1\\Manager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:52:32.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\HR Management System - oop task 1\\HR Management System - oop task 1\\Employee.cs",
+              "RelativeDocumentMoniker": "HR Management System - oop task 1\\Employee.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\HR Management System - oop task 1\\HR Management System - oop task 1\\Employee.cs",
+              "RelativeToolTip": "HR Management System - oop task 1\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:21:02.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\depi\\DEPI-Tasks\\HR Management System - oop task 1\\HR Management System - oop task 1\\Program.cs",
+              "RelativeDocumentMoniker": "HR Management System - oop task 1\\Program.cs",
+              "ToolTip": "E:\\depi\\DEPI-Tasks\\HR Management System - oop task 1\\HR Management System - oop task 1\\Program.cs",
+              "RelativeToolTip": "HR Management System - oop task 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:29:19.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

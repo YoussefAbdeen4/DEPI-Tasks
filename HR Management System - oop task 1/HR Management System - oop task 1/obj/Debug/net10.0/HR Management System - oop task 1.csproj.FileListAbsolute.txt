@@ -1,0 +1,15 @@
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\bin\Debug\net10.0\HR Management System - oop task 1.exe
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\bin\Debug\net10.0\HR Management System - oop task 1.deps.json
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\bin\Debug\net10.0\HR Management System - oop task 1.runtimeconfig.json
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\bin\Debug\net10.0\HR Management System - oop task 1.dll
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\bin\Debug\net10.0\HR Management System - oop task 1.pdb
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.AssemblyInfoInputs.cache
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.AssemblyInfo.cs
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.csproj.CoreCompileInputs.cache
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.sourcelink.json
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.dll
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\refint\HR Management System - oop task 1.dll
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.pdb
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\HR Management System - oop task 1.genruntimeconfig.cache
+E:\depi\DEPI-Tasks\HR Management System - oop task 1\HR Management System - oop task 1\obj\Debug\net10.0\ref\HR Management System - oop task 1.dll
